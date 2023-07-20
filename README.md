@@ -4,7 +4,7 @@ Hi 👋 My name is Tahkir
 iOS-developer
 -------------
 
-* 🌍  I'm based in Tomsk city
+* 🌍  I'm live in Tomsk city
 * 🖥️  See my portfolio at [instagram](http://www.instagram.com/xthemostmeaninglessusernamex/)
 * 🧠  I'm learning SwiftUI
 
